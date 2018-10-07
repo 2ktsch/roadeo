@@ -1,0 +1,9 @@
+{
+  "preprocessor": {
+    "trackpath": "tracks",
+    "maxdistance": 10,
+    "meterspersample": 0.025,
+    "resolutionplaces": 3,
+    "mintracklength": 500
+  }
+}
